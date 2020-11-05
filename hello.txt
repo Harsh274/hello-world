@@ -1,2 +1,5 @@
 print"hello world"
 Note=This is a print statement used in python.
+
+git commit mistake overturned using-
+Press i to enter inline insert mode. Type the description at the very top, press esc to exit insert mode, then type :x! (now the cursor is at the bottom) and hit enter to save and exit
